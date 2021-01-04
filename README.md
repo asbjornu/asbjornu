@@ -1,10 +1,10 @@
 # Asbjørn Ulsberg
 
-Hi, I'm Asbjørn Ulsberg and I've been programming professionally for 20 years
-and as a hobby for more than 30. I have a passion for software architecture and
-spend a lot of time thinking about modeling and naming things. The web has
-always been close to my heart, so I spend time in IETF and W3C working groups to
-make it better.
+Hi, I'm Asbjørn Ulsberg and I've been programming professionally for more than
+20 years and as a hobby for more than 30. I have a passion for software
+architecture and spend a lot of time thinking about modeling and naming things.
+The web has always been close to my heart, so I spend time in IETF and W3C
+working groups to make it better.
 
 When I'm not working, I enjoy spending time with my wife and daughter as well as
 participating in the [demoscene] and making music with my alter ego [Bitbear]. I
