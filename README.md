@@ -1,10 +1,10 @@
 # Asbjørn Ulsberg
 
-Hi, I'm Asbjørn Ulsberg and I've been programming professionally for more than
-20 years and as a hobby for more than 30. I have a passion for software
-architecture and spend a lot of time thinking about modeling and naming things.
-The web has always been close to my heart, so I spend time in IETF and W3C
-working groups to make it better.
+Hi, I'm [Asbjørn Ulsberg][asbjornu] and I've been programming professionally for
+more than 20 years and as a hobby for more than 30. I have a passion for
+software architecture and spend a lot of time thinking about modeling and naming
+things. The web has always been close to my heart, so I spend time in IETF and
+W3C working groups to make it better.
 
 When I'm not working, I enjoy spending time with my wife and daughter as well as
 participating in the [demoscene] and making music with my alter ego [Bitbear]. I
@@ -62,8 +62,10 @@ the right tool for the job a liberating, creative and rewarding experience.
 * [Linked-in]
 * [Stack Overflow][stackoverflow]
 * [Keybase]
+* [www][asbjornu]
 
 [api-change-strategy]: https://nordicapis.com/api-change-strategy/
+[asbjornu]: https://asbjor.nu/
 [bitbear]: https://bitbear.org/
 [compositional-uis]: https://youtu.be/Kqb0wepe8dY
 [demoscene]: https://en.wikipedia.org/wiki/Demoscene
